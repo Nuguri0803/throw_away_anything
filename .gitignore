@@ -1,0 +1,9 @@
+.vscode/
+.idea/
+*.hex
+*.elf
+*.bin
+*.map
+*.tmp
+build/
+.pio/
